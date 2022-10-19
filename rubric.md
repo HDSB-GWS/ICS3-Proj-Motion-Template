@@ -1,4 +1,4 @@
-# ICS3 - MiniGame Rubric
+# ICS3 - PyGame MiniGame Rubric
 
 [TOC]
 
@@ -13,7 +13,7 @@
 
 
 
-Overall Thinking Grade: L
+Overall Planning Grade: L
 
 
 
@@ -25,14 +25,14 @@ Overall Thinking Grade: L
 - [ ] Program follows are named following ics3 formatting conventions.
 - [ ] Program plan is neat, organized, easy to read and has correct spelling/grammar.
 
-### Regular Github Commits [ ]
+### Regular Github Commits [C]
 
 - [ ] Regular and **meaningful** GitHub updates have been made showing daily progress
 - [ ] Reasonable explanations of what was accomplished in the git comments.
 
 
 
-Overall Communication Grade: 
+Overall Documentation Grade: L
 
 
 
@@ -65,3 +65,5 @@ Overall Communication Grade:
   - [ ] Code is reasonably efficient.
   - [ ] Functions used to reduce code repetition 
   - [ ] etc.
+
+Overall Program Grade: L
