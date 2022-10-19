@@ -1,1 +1,1 @@
-# ICS3-Proj-Motion-Template
+# ICS3-Proj-Motion-Assignment
